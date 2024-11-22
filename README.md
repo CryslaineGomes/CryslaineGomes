@@ -47,7 +47,7 @@ Bem-vindo(a) ao meu GitHub! Aqui compartilho minha jornada na tecnologia, com pr
 ## 🎯 Certificações e Cursos  
 
 - **Gestão da Tecnologia da Informação** - Formação acadêmica  
-- **Testes de Software** - Certificação de MJV School  
+- **Testes de Software - Testes manuais e automatizados** - Certificação de MJV School  
 - **Inglês:** Nível A2 (certificado)  
 - **Japonês:** Nível N4 (certificado)  
 - **Espanhol:** Básico (certificado) 
