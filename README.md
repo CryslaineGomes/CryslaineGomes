@@ -35,20 +35,30 @@ Bem-vindo(a) ao meu GitHub! Aqui compartilho minha jornada na tecnologia, com pr
 
 ### 🧪 Testes de Software  
 
-- **Testes Manuais:**  
-  - Criação de casos de teste (test cases)  
-  - Execução de testes exploratórios e de regressão  
-  - Elaboração de relatórios de bugs  
+#### ✅ Testes Manuais  
+- Criação e execução de casos de teste (Test Cases) com base nos critérios de aceitação  
+- Testes exploratórios para identificar possíveis falhas e melhorias  
+- Testes de regressão para validar funcionalidades após mudanças no sistema  
+- Elaboração de relatórios detalhados de bugs e sugestões de correção  
 
-- **Testes Automatizados:**  
-  - **Selenium:** Criação de automações para validação de funcionalidades web  
-  - **Cypress:** Desenvolvimento de testes E2E para simular interações de usuários  
-  - **BDD:** Escrita de cenários em Gherkin para Cucumber  
+#### 🤖 Testes Automatizados  
+- **Selenium:** Automação de testes para validação de funcionalidades web  
+- **Cypress:** Desenvolvimento de testes E2E (End-to-End) simulando interações reais de usuários  
+- **BDD (Behavior-Driven Development):** Escrita de cenários em **Gherkin** para automação com **Cucumber**  
+- **Page Object Model (POM):** Implementação de boas práticas na estruturação de testes  
 
-- **Habilidades Complementares:**  
-  - Uso de XPaths para localização de elementos  
-  - Page Object Model (POM) para estruturação de testes  
-  - Análise e validação de critérios de aceitação  
+#### 🔗 Testes de API  
+- Validação de códigos de status HTTP (`200 OK`, `201 Created`, `400 Bad Request`, etc.)  
+- Verificação da estrutura e integridade da resposta (JSON/XML)  
+- Testes de autenticação e autorização (`401 Unauthorized`, `403 Forbidden`)  
+- Simulação de erros e validação de mensagens de resposta  
+- Testes de carga e tempo de resposta para avaliar a performance da API  
+
+#### 🛠️ Habilidades Complementares  
+- Uso de **XPaths** e **CSS Selectors** para localização de elementos em testes automatizados  
+- Análise e validação de **critérios de aceitação** para garantir qualidade no desenvolvimento  
+- Integração de testes automatizados com pipelines CI/CD  
+
 
 ---
 
