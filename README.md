@@ -17,13 +17,14 @@ Bem-vindo(a) ao meu GitHub! Aqui compartilho minha jornada na tecnologia, com pr
   - SQL
 
 
-- **Frameworks e Ferramentas:**  
- - Git & GitHub  
- - VS Code
- - Android Studio
- - Intelij
- - Insomnia
- - Flutter
+- **Frameworks e Ferramentas:**
+   - Git & GitHub
+   - VS Code
+   - Android Studio
+   - Intelij
+   - Insomnia
+   - Flutter
+ 
 
 
 - **Projetos Front-End:**  
