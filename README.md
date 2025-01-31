@@ -9,12 +9,12 @@ Bem-vindo(a) ao meu GitHub! Aqui compartilho minha jornada na tecnologia, com pr
 ### 🚀 Desenvolvimento  
 
 - **Linguagens de Programação:**
-    ✔️ Lógica de Programação
-    ✔️ HTML, CSS, JS
-    ✔️ Dart
-    ✔️ Java
-    ✔️ Python
-    ✔️ SQL
+  - Lógica de Programação
+  - HTML, CSS, JS
+  - Dart
+  - Java
+  - Python
+  - SQL
 
 
 - **Frameworks e Ferramentas:**  
