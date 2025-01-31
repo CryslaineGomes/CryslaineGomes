@@ -18,17 +18,17 @@ Bem-vindo(a) ao meu GitHub! Aqui compartilho minha jornada na tecnologia, com pr
 
 
 - **Frameworks e Ferramentas:**  
-✔️ Git & GitHub  
-✔️ VS Code
-✔️ Android Studio
-✔️ Intelij
-✔️ Insomnia
-✔️ Flutter
+ - Git & GitHub  
+ - VS Code
+ - Android Studio
+ - Intelij
+ - Insomnia
+ - Flutter
 
 
 - **Projetos Front-End:**  
-  ✔️ Desenvolvimento de aplicações web responsivas  
-  ✔️ Integração com APIs REST  
+  - Desenvolvimento de aplicações web responsivas  
+  - Integração com APIs REST  
 
 ---
 
