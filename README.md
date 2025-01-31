@@ -9,19 +9,25 @@ Bem-vindo(a) ao meu GitHub! Aqui compartilho minha jornada na tecnologia, com pr
 ### 🚀 Desenvolvimento  
 
 - **Linguagens de Programação:**  
-  - HTML5, CSS3, JavaScript  
-  - Python  
-  - SQL  
-  - Mobile básico  
+✔️ Lógica de Programação
+✔️ HTML, CSS, JS
+✔️ Dart
+✔️ Java
+✔️ Python
+✔️ SQL
 
 - **Frameworks e Ferramentas:**  
-  - Bootstrap  
-  - Git & GitHub  
-  - VS Code  
+✔️ Git & GitHub  
+✔️ VS Code
+✔️ Android Studio
+✔️ Intelij
+✔️ Insomnia
+✔️ Flutter
+
 
 - **Projetos Front-End:**  
-  - Desenvolvimento de aplicações web responsivas  
-  - Integração com APIs REST  
+  ✔️ Desenvolvimento de aplicações web responsivas  
+  ✔️ Integração com APIs REST  
 
 ---
 
