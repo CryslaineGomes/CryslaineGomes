@@ -1,8 +1,10 @@
-👩‍💻 Cryslaine Pereira | Desenvolvedora & QA  
+# 👩‍💻 Cryslaine Pereira | Desenvolvedora & QA  
 
-Bem-vindo(a) ao meu GitHub! Aqui compartilho minha jornada na tecnologia, com projetos e aprendizados em desenvolvimento e qualidade de software. Estou em transição de carreira, unindo minha paixão por tecnologia à experiência adquirida em mais de 12 anos no varejo.  
+Bem-vindo(a) ao meu GitHub! Compartilho minha jornada na tecnologia, com projetos e aprendizados em desenvolvimento e qualidade de software. Em transição de carreira, estou unindo minha paixão por tecnologia com mais de 12 anos de experiência no varejo.  
+
 ---
-🔗 **Meu portfólio:** [cryslainepereira.netlify.app](https://cryslainepereira.netlify.app/)  
+
+🔗 **Portfólio:** [cryslainepereira.netlify.app](https://cryslainepereira.netlify.app/)
 
 ## 🛠️ Habilidades Técnicas  
 
