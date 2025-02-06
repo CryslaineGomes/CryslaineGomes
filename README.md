@@ -1,4 +1,4 @@
-# 👩‍💻 Cryslaine Pereira | Engenheira de Software 
+# 👩🏼‍💻 Cryslaine Pereira | Engenheira de Software 
 
 Bem-vindo(a) ao meu GitHub! Compartilho minha jornada na tecnologia, com projetos e aprendizados em desenvolvimento e qualidade de software. Em transição de carreira, estou unindo minha paixão por tecnologia com mais de 12 anos de experiência no varejo.  
 
@@ -66,7 +66,7 @@ Bem-vindo(a) ao meu GitHub! Compartilho minha jornada na tecnologia, com projeto
 
 ## 🎯 Certificações e Cursos  
 
-- **Pós-graduação em Engenharia de software**👷(Cursando)
+- **Pós-graduação em Engenharia de software**👷🏼‍♀️(Cursando)
 - **Graduação em Gestão da Tecnologia da Informação**(2022-2024)
 - **Testes de Software - Testes manuais e automatizados** - Certificação de MJV School
 - **Testes de Software - Testes automatizados** - Certificação de Qazando 
